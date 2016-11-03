@@ -32,7 +32,7 @@ var friends = [
       ]
 },
 {
-  "name":"Angel",
+  "name":"Mike",
   "photo":"http://lorempixel.com/400/200",
   "scores":[
      9,
@@ -48,7 +48,7 @@ var friends = [
       ]
 },
 {
-  "name":"Karina",
+  "name":"Scott",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
@@ -64,7 +64,7 @@ var friends = [
       ]
 },
 {
-  "name":"Miriam",
+  "name":"John",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
@@ -80,7 +80,7 @@ var friends = [
       ]
 },
 {
-  "name":"Lisa",
+  "name":"Priya",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
@@ -96,7 +96,7 @@ var friends = [
       ]
 },
 {
-  "name":"Nicole",
+  "name":"Michelle",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
@@ -112,7 +112,7 @@ var friends = [
       ]
 },
 {
-  "name":"Jason",
+  "name":"Tony",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
