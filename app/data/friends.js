@@ -1,7 +1,7 @@
 var friends = [
   {
-      "name":"Ashley",
-      "photo":"http://lorempixel.com/400/200",
+      "name":"Tim",
+      "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
       "scores":[
          5,
          1,
@@ -17,7 +17,7 @@ var friends = [
       },
   {
   "name":"Sarah",
-  "photo":"http://lorempixel.com/400/200",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
      1,
@@ -33,7 +33,7 @@ var friends = [
 },
 {
   "name":"Mike",
-  "photo":"http://lorempixel.com/400/200",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg", 
   "scores":[
      9,
      1,
@@ -49,7 +49,7 @@ var friends = [
 },
 {
   "name":"Scott",
-  "photo":"http://lorempixel.com/400/200",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
      1,
@@ -65,7 +65,7 @@ var friends = [
 },
 {
   "name":"John",
-  "photo":"http://lorempixel.com/400/200",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
      1,
@@ -81,7 +81,7 @@ var friends = [
 },
 {
   "name":"Priya",
-  "photo":"http://lorempixel.com/400/200",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
      1,
@@ -97,7 +97,7 @@ var friends = [
 },
 {
   "name":"Michelle",
-  "photo":"http://lorempixel.com/400/200",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
      1,
@@ -113,7 +113,7 @@ var friends = [
 },
 {
   "name":"Tony",
-  "photo":"http://lorempixel.com/400/200",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
      1,
@@ -128,7 +128,7 @@ var friends = [
       ]
 },
 {
-  "name":"Nate",
+  "name":"Benedict",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
@@ -145,7 +145,7 @@ var friends = [
 },
 {
   "name":"Ken",
-  "photo":"http://lorempixel.com/400/200",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
      5,
      1,
