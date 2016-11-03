@@ -49,7 +49,7 @@ var friends = [
 },
 {
   "name":"Scott",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"http://lorempixel.com/400/200",
   "scores":[
      5,
      1,
@@ -65,7 +65,7 @@ var friends = [
 },
 {
   "name":"John",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"http://lorempixel.com/400/200",
   "scores":[
      5,
      1,
@@ -81,7 +81,7 @@ var friends = [
 },
 {
   "name":"Priya",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"http://lorempixel.com/400/200",
   "scores":[
      5,
      1,
@@ -97,7 +97,7 @@ var friends = [
 },
 {
   "name":"Michelle",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"http://lorempixel.com/400/200",
   "scores":[
      5,
      1,
@@ -113,7 +113,7 @@ var friends = [
 },
 {
   "name":"Tony",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"http://lorempixel.com/400/200",
   "scores":[
      5,
      1,
@@ -145,7 +145,7 @@ var friends = [
 },
 {
   "name":"Ken",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"http://lorempixel.com/400/200",
   "scores":[
      5,
      1,
